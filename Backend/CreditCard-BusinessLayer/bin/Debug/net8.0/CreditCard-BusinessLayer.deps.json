@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CreditCard-BusinessLayer/1.0.0": {
+        "dependencies": {
+          "CreditCard-DataAccessLayer": "1.0.0"
+        },
+        "runtime": {
+          "CreditCard-BusinessLayer.dll": {}
+        }
+      },
+      "CreditCard-DataAccessLayer/1.0.0": {
+        "runtime": {
+          "CreditCard-DataAccessLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditCard-BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CreditCard-DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

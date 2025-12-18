@@ -1,0 +1,11 @@
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\bin\Debug\net8.0\CreditCard-DataAccessLayer.deps.json
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\bin\Debug\net8.0\CreditCard-DataAccessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\bin\Debug\net8.0\CreditCard-DataAccessLayer.pdb
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\CreditCard-DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\CreditCard-DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\CreditCard-DataAccessLayer.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\CreditCard-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\CreditCard-DataAccessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\refint\CreditCard-DataAccessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\CreditCard-DataAccessLayer.pdb
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-DataAccessLayer\obj\Debug\net8.0\ref\CreditCard-DataAccessLayer.dll

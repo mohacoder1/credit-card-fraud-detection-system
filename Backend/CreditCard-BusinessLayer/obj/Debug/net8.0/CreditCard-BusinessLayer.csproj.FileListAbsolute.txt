@@ -1,0 +1,15 @@
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\bin\Debug\net8.0\CreditCard-BusinessLayer.deps.json
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\bin\Debug\net8.0\CreditCard-BusinessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\bin\Debug\net8.0\CreditCard-BusinessLayer.pdb
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\bin\Debug\net8.0\CreditCard-DataAccessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\bin\Debug\net8.0\CreditCard-DataAccessLayer.pdb
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.AssemblyInfo.cs
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCa.D2A6BCED.Up2Date
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\refint\CreditCard-BusinessLayer.dll
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\CreditCard-BusinessLayer.pdb
+C:\Users\Mohammed\source\repos\course-20-exercises\CreditCard-BusinessLayer\obj\Debug\net8.0\ref\CreditCard-BusinessLayer.dll
